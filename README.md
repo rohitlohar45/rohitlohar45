@@ -42,8 +42,8 @@ const rohit = {
  > 
 > 📦 159.1 kB Used in GitHub's Storage 
  > 
-> 📜 7 Public Repositories 
+> 📜 17 Public Repositories 
  > 
-> 🔑 5 Private Repositories  
+> 🔑 6 Private Repositories  
  > 
 <!--END_SECTION:waka-->
