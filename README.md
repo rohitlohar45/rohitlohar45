@@ -3,9 +3,9 @@
 <p><em>B.E 4th year Information Technology Student @<a href="https://aissmsioit.org/">All India Shri Shivaji Memorial Society</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Rohit90382390?style=social)](https://twitter.com/Rohit90382390)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Rohit90382390?style=social)](https://twitter.com/0xMalviya)
 
-[![Linkedin: Rohit Lohar](https://img.shields.io/badge/-Rohit%20Lohar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-lohar/)](https://www.linkedin.com/in/rohit-lohar/)
+[![Linkedin: Rohit Lohar](https://img.shields.io/badge/-Rohit%20Lohar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-lohar/)](https://www.linkedin.com/in/loharrohit45/)
 
 ![GitHub followers](https://img.shields.io/github/followers/rohitlohar45?style=social)
 
