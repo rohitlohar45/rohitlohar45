@@ -3,7 +3,7 @@
 <p><em>B.E 4th year Information Technology Student @<a href="https://aissmsioit.org/">All India Shri Shivaji Memorial Society</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Rohit90382390?style=social)](https://twitter.com/0xMalviya)
+[![Twitter Follow](https://img.shields.io/twitter/follow/0xMalviya)](https://twitter.com/0xMalviya)
 
 [![Linkedin: Rohit Lohar](https://img.shields.io/badge/-Rohit%20Lohar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-lohar/)](https://www.linkedin.com/in/loharrohit45/)
 
