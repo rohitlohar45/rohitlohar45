@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/0xmalviya" target="blank"><img src="https://img.shields.io/twitter/follow/0xmalviya?logo=twitter&style=for-the-badge" alt="0xmalviya" /></a> </p>
 
-- 🔭 I’m currently working on **Learning**
-
 - 🌱 I’m currently learning **Proxy servers, Databases, Operating Systems**
 
 - 👨‍💻 All of my projects are available at [https://rohitlohar.live](https://rohitlohar.live)
