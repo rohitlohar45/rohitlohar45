@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FIJqdriG34AkhbWW3BZ3L20S43kmQOV2/view?usp=sharing](https://drive.google.com/file/d/1FIJqdriG34AkhbWW3BZ3L20S43kmQOV2/view?usp=sharing)
 
-[![wakatime](https://wakatime.com/badge/user/018e656e-0ecb-44e3-9a74-56eb25316222/project/9451a8bf-8763-4315-9063-31b89ae1ddb9.svg)](https://wakatime.com/badge/user/018e656e-0ecb-44e3-9a74-56eb25316222/project/9451a8bf-8763-4315-9063-31b89ae1ddb9)
+[![wakatime](https://wakatime.com/badge/user/018e656e-0ecb-44e3-9a74-56eb25316222/project/2c790cf8-6748-4f79-abe3-f70a2ee689ce.svg)](https://wakatime.com/badge/user/018e656e-0ecb-44e3-9a74-56eb25316222/project/2c790cf8-6748-4f79-abe3-f70a2ee689ce)
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
