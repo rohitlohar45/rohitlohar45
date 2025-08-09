@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Proxy servers, Databases, Operating Systems**
 
-- 👨‍💻 All of my projects are available at [https://rohitlohar.live](https://rohitlohar.vercel.app)
+- 👨‍💻 All of my projects are available at [https://rohitlohar.vercel.app](https://rohitlohar.vercel.app)
 
 - 💬 Ask me about **MERN, K8s, Docker, Go**
 
